@@ -9,4 +9,5 @@ https://www.capitalbikeshare.com/how-it-works
 UCI:http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
 「Bike_Sharing.ipynb」をクリックしてください。
+
 「day.csv」はデータファイルです。
