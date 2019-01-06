@@ -1,4 +1,4 @@
-アメリカのレンタル自転車サービス「Capital Bikeshare」に関する分析です
+アメリカのレンタル自転車サービス「Capital Bikeshare」に関する分析です。
 
 https://www.capitalbikeshare.com/how-it-works
 
