@@ -7,3 +7,5 @@ https://www.capitalbikeshare.com/how-it-works
 データは下記に公開されているものを使用しています。
 
 UCI:http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+
+「Bike_Sharing.ipynb」をクリックしてください。
